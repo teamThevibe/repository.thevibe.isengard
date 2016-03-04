@@ -63,9 +63,9 @@
         <disclaimer lang="zh">访问wiki页或XBMC论坛了解更多信息</disclaimer>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website/>
+        <website></website>
         <forum>http://forum.xbmc.org/showthread.php?tid=142389</forum>
         <source>https://github.com/XBMC-Addons/service.skin.widgets</source>
-        <email/>
+        <email></email>
     </extension>
 </addon>
